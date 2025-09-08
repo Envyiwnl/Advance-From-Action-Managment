@@ -1,0 +1,32 @@
+{
+  "opinions": [
+    {
+      "id": 1757316924888,
+      "votes": 7,
+      "userName": "Ankita Bishaya",
+      "title": "I am so in love with parvez. I want to marry him.",
+      "body": "I love how he looks at me. How he kisses me."
+    },
+    {
+      "id": 1757316089592,
+      "votes": 7,
+      "userName": "Ayushree Kakaty",
+      "title": "I love Parvez",
+      "body": "I have been in love with him since, 2016 Potential Classes."
+    },
+    {
+      "id": 1,
+      "userName": "Maximilian Schwarzmüller",
+      "title": "Do yourself a favor and learn React!",
+      "body": "React is an amazing JavaScript library!\n\nDespite all it's shortcomings.",
+      "votes": 0
+    },
+    {
+      "id": 2,
+      "userName": "Maximilian Schwarzmüller",
+      "title": "React has more depth than you might first think!",
+      "body": "React is a great library to learn, but it's not just about the basics. Dive deeper!\nFor example with this course!",
+      "votes": 0
+    }
+  ]
+}
